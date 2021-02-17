@@ -17,4 +17,4 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 
-In this repo I am did the example in react tutorial state and life cykle, more details here: https://reactjs.org/docs/state-and-lifecycle.html
+In this repo I did the example in react tutorial state and life cykle, more details here: https://reactjs.org/docs/state-and-lifecycle.html
